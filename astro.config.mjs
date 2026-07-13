@@ -18,7 +18,7 @@ export default defineConfig({
       lastUpdated: false,
       pagination: true,
       sidebar: [
-        { label: '前言:何謂風水？風水與紫微斗數的關係', slug: 'unit00' },
+        { label: '何謂風水？風水與紫微斗數的關係', slug: 'unit00' },
         {
           label: '田宅宮與風水方位運用',
           items: [
